@@ -45,7 +45,27 @@ export default function Home() {
                   <img
                     className="inline-block h-10 w-10 rounded-full right-2 ring-slate-100"
                     src="/users/user-1.png"
-                    alt="User"
+                    alt="User image"
+                  />
+                  <img
+                    className="inline-block h-10 w-10 rounded-full right-2 ring-slate-100"
+                    src="/users/user-2.png"
+                    alt="User image"
+                  />
+                  <img
+                    className="inline-block h-10 w-10 rounded-full right-2 ring-slate-100"
+                    src="/users/user-2.png"
+                    alt="User image"
+                  />
+                  <img
+                    className="inline-block h-10 w-10 rounded-full right-2 ring-slate-100"
+                    src="/users/user-2.png"
+                    alt="User image"
+                  />
+                  <img
+                    className="inline-block h-10 w-10 rounded-full right-2 ring-slate-100"
+                    src="/users/user-2.png"
+                    alt="User image"
                   />
                 </div>
               </div>
