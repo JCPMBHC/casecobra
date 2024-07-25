@@ -1,4 +1,5 @@
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
+import Phone from "@/components/Phone";
 import { Check, Star } from "lucide-react";
 
 export default function Home() {
@@ -98,6 +99,7 @@ export default function Home() {
                 className="absolute w-20 -left-6 -bottom-6 select-none"
                 alt=""
               />
+              <Phone />
             </div>
           </div>
         </MaxWidthWrapper>
