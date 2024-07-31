@@ -99,7 +99,7 @@ export default function Home() {
                 className="absolute w-20 -left-6 -bottom-6 select-none"
                 alt=""
               />
-              <Phone imgSrc={""} />
+              <Phone className="w-64" imgSrc="/testimonials/1.jpg" />
             </div>
           </div>
         </MaxWidthWrapper>
